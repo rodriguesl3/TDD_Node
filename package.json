@@ -1,0 +1,17 @@
+{
+  "name": "tdd_node",
+  "version": "0.0.1",
+  "description": "understanding unit test in node js with assert mocha and chai, following be mean class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mocha",
+    "assert",
+    "chai"
+  ],
+  "author": "Lucas Souza",
+  "license": "ISC"
+}
