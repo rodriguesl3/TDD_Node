@@ -1,6 +1,6 @@
 'use strict';
 
-var calc = require('./mocha_02');
+var calc = require('./../Calc');
 var assert = require('assert');
 
 describe('Calculate',()=>{
