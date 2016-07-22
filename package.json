@@ -13,5 +13,8 @@
     "chai"
   ],
   "author": "Lucas Souza",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
 }
